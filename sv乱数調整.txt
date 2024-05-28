@@ -2,6 +2,7 @@
 
 BallBonus @ 2000-08-30 11:02:09 -- 967633329
 ItemBonus @ 2000-08-24 02:00:09 -- 967082409
+ItemBonus @ 2024-12-19 19:02:12 -- 1734634932
 
 Time: 2000-05-12 22:59:28
 Seed: 958172368
@@ -34,4 +35,5 @@ x9 Exp. Candy L
 x5 Exp. Candy XL
 x2 Miracle Seed
 x4 Exp. Candy XL
+
 
