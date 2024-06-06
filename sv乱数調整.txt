@@ -4,6 +4,13 @@ BallBonus @ 2000-08-30 11:02:09 -- 967633329
 ItemBonus @ 2000-08-24 02:00:09 -- 967082409
 ItemBonus @ 2024-12-19 19:02:12 -- 1734634932
 
+Time: 2024-06-06 21:03:09
+Seed: 1717707789
+x2 Ability Patch
+
+
+BallBonus @ 2024-06-16 02:45:10 -- 1718505910
+
 Time: 2000-05-12 22:59:28
 Seed: 958172368
 x18 テラピースあく
@@ -44,3 +51,10 @@ x2 Ability Patch
 x1 Ability Patch
 x1 Metal Alloy
 
+Time: 2058-08-14 15:39:17
+Seed: 2796565157
+x1 Beast Ball
+x1 Master Ball
+x1 Master Ball
+x1 Master Ball
+x1 Master Ball
